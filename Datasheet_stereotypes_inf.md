@@ -79,12 +79,12 @@ Examples with single annotation and four annotations contain one or four annotat
 5. **Is there a label or target associated with each instance? If so, please provide a description.**
     
     Each example has annotations for 6 questions from our survey, annotator ID, and example ID. <br />
-    Q1: Valid? has possible answers: Yes (1) or No (5).\\
-    Q2: Plaus? has possible answers: Yes(1) or No(5).\\
-    Q3: Iden? has possible answers: Yes(1), Maybe yes(2), Not sure(3), Maybe no(4), or No(5).\\
-    Q4: Situ? has possible answers: Yes(1), Maybe yes(2), Not sure(3), Maybe no(4), or No(5).\\
-    Q5: Senti? has possible answers: Positive(1), Maybe positive(2), Neutral(3), Maybe negative(4), or Negative(5).\\
-    Q6: Stereo? has possible answers: Yes(1), Maybe yes(2), Not sure(3), Maybe no(4), or No(5).\\
+    Q1: Valid? has possible answers: Yes (1) or No (5).<br />
+    Q2: Plaus? has possible answers: Yes(1) or No(5).<br />
+    Q3: Iden? has possible answers: Yes(1), Maybe yes(2), Not sure(3), Maybe no(4), or No(5).<br />
+    Q4: Situ? has possible answers: Yes(1), Maybe yes(2), Not sure(3), Maybe no(4), or No(5).<br />
+    Q5: Senti? has possible answers: Positive(1), Maybe positive(2), Neutral(3), Maybe negative(4), or Negative(5).<br />
+    Q6: Stereo? has possible answers: Yes(1), Maybe yes(2), Not sure(3), Maybe no(4), or No(5).<br />
     For more details on questions from the survey,please, read the paper.
 
 6. **Is any information missing from individual instances?** *(If so, please provide a description, explaining why this information is missing (e.g., because it was unavailable). This does not include intentionally removed information, but might include, e.g., redacted text.)*
