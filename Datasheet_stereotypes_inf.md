@@ -78,7 +78,7 @@ Examples with single annotation and four annotations contain one or four annotat
 
 5. **Is there a label or target associated with each instance? If so, please provide a description.**
     
-    Each example has annotations for 6 questions from our survey, annotator ID, and example ID.\\
+    Each example has annotations for 6 questions from our survey, annotator ID, and example ID. <br />
     Q1: Valid? has possible answers: Yes (1) or No (5).\\
     Q2: Plaus? has possible answers: Yes(1) or No(5).\\
     Q3: Iden? has possible answers: Yes(1), Maybe yes(2), Not sure(3), Maybe no(4), or No(5).\\
