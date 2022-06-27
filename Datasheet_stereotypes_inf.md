@@ -2,7 +2,7 @@
 
 By: [Anna Sotnikova] `<asotniko@umd.edu>`, [Yang Trista Cao]`<ycao95@umd.edu>`, [Hal Daumé III](http://hal3.name) `<hal3@umd.edu>`, [Rachel Rudinger]`<rudinger@umd.edu>` 
 
-As part of a study of stereotypes in Generative Text Inference Tasks, we collected and annotated a dataset of models generated text inferences for a variety of social groups in the United States. We call this dataset the **Stereotypes in Generative Text Inference Tasks**; what follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing the original paper:
+As part of a study of stereotypes in Generative Text Inference Tasks, we collected and annotated a dataset of models generated text inferences for a variety of social groups in the United States. We call this dataset the **StereoInf**; what follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing the original paper:
 
 ```
 @inproceedings{sotnikova-etal-2021-analyzing,
